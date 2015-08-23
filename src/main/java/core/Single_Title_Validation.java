@@ -11,7 +11,7 @@ public class Single_Title_Validation {
 		WebDriver driver = new FirefoxDriver();    // Version 1.1 :: Firefox
 
 	
-		String url = "http://www.learn2testX.net";
+		String url = "http://www.learn2test.net";
 		String title_expected = "learn2test.net";
 		
 		driver.get(url);
